@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="uIFWPxQe17nbiQqQhEPZ">
-    <mxGraphModel dx="1863" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2243" dy="1425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,6 +152,168 @@
         <mxCell id="m7v5mhuUGvf5ou_YdBxC-41" value="Mi-an-ma" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-40">
           <mxGeometry x="-0.017" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-48" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m7v5mhuUGvf5ou_YdBxC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="400" as="sourcePoint" />
+            <mxPoint x="560" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="500" as="sourcePoint" />
+            <mxPoint x="560" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="500" as="sourcePoint" />
+            <mxPoint x="720" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-70" value="Thời kì tái thiết và phát triển&amp;nbsp;&lt;div&gt;sau khi giành được độc lập&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-51">
+          <mxGeometry x="-0.3962" y="-3" relative="1" as="geometry">
+            <mxPoint x="32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m7v5mhuUGvf5ou_YdBxC-55" target="m7v5mhuUGvf5ou_YdBxC-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-63" value="1945" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-62">
+          <mxGeometry x="-0.0656" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-55" value="Phong trào chống thực dân mang tính chất phong kiến và diễn ra sớm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m7v5mhuUGvf5ou_YdBxC-56" target="m7v5mhuUGvf5ou_YdBxC-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m7v5mhuUGvf5ou_YdBxC-56" target="m7v5mhuUGvf5ou_YdBxC-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m7v5mhuUGvf5ou_YdBxC-56" target="m7v5mhuUGvf5ou_YdBxC-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-69" value="1975" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-68">
+          <mxGeometry x="-0.2094" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-56" value="Phong trào đấu tranh dân tộc phát triển theo 2 hướng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-57" value="Các nước bị xâm chiếm yêu cầu thực dân Phương Tây trả độc lập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="430" as="sourcePoint" />
+            <mxPoint x="560" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-59" value="Các giai đoạn phát triển của cuộc đấu tranh&lt;div&gt;giành độc lập dân tộc ở Đông Nam Á&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="m7v5mhuUGvf5ou_YdBxC-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-61" value="1920" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="m7v5mhuUGvf5ou_YdBxC-58">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-64" value="Tư sản (giai cấp tư sản lãnh đạo)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-66" value="Vô sản (giai cấp vô sản lãnh đạo)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="520" as="sourcePoint" />
+            <mxPoint x="640" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-75" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;flowAnimation=0;shadow=0;strokeColor=default;anchorPointDirection=1;snapToPoint=0;bendable=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="640" as="sourcePoint" />
+            <mxPoint x="1040" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-76" value="chính sách &quot;chia để trị&quot; đã tạo ra sự phân biệt sắc tộc, tôn giáo,... giữa các quốc gia trên thế giối" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="325" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="500" as="sourcePoint" />
+            <mxPoint x="890" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-78" value="a. Những ảnh hưởng của&lt;div&gt;chế độ thực dân&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-77">
+          <mxGeometry x="0.5128" y="3" relative="1" as="geometry">
+            <mxPoint x="-31" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-79" value="Hơn 4 thế kỉ thống trị, thực dân phương Tây đã lại những hậu quả nặng nề cho ĐNÁ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m7v5mhuUGvf5ou_YdBxC-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="520" as="sourcePoint" />
+            <mxPoint x="1040" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-83" value="chế độ thực dân đã để lại nhiều công trình vô bổ, đa số biến thành nơi cung cấp nguyên liệu và thị trường tiêu thụ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="420" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-84" value="tạo văn hoá nô dịch, thi hành chinh sách ngu dân và hạn chế hoạt động giáo dục" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="520" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-85" value="80 năm cai trị của chủ nghĩa thực dân để lại cho Việt Nam nhiều hậu quả nặng nề" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m7v5mhuUGvf5ou_YdBxC-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="640" as="sourcePoint" />
+            <mxPoint x="1090" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-97" value="Việt Nam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-86">
+          <mxGeometry x="-0.4271" y="1" relative="1" as="geometry">
+            <mxPoint x="34" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-87" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m7v5mhuUGvf5ou_YdBxC-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="550" as="sourcePoint" />
+            <mxPoint x="1120" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-96" value="Văn hoá" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-87">
+          <mxGeometry x="-0.2396" y="1" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-88" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m7v5mhuUGvf5ou_YdBxC-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="455" as="sourcePoint" />
+            <mxPoint x="1120" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-95" value="Kinh tế" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-88">
+          <mxGeometry x="-0.3333" y="-1" relative="1" as="geometry">
+            <mxPoint x="27" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-89" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m7v5mhuUGvf5ou_YdBxC-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="360" as="sourcePoint" />
+            <mxPoint x="1080" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-94" value="Chính trị - xã hội" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-89">
+          <mxGeometry x="-0.2813" y="-1" relative="1" as="geometry">
+            <mxPoint x="23" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
