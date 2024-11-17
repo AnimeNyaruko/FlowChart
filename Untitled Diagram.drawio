@@ -1,9 +1,159 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="uIFWPxQe17nbiQqQhEPZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1863" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-1" value="Hành trình đi đến độc lập dân tộc ở Đông Nam Á" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="365" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m7v5mhuUGvf5ou_YdBxC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="430" as="sourcePoint" />
+            <mxPoint x="290" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-8" value="Phong trào đấu tranh chống&lt;div&gt;thực dân xâm lược ở Đông Nam Á&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-7">
+          <mxGeometry x="-0.0153" relative="1" as="geometry">
+            <mxPoint x="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-11" value="Từ XVII đến XIX, dưới sự lãnh đạo của vương triều Hồi giáo, cuộc đấu tranh chống thực dân Hà Lan nổ ra nhưng lại thất bại." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="110" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m7v5mhuUGvf5ou_YdBxC-12" target="m7v5mhuUGvf5ou_YdBxC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-12" value="1824-1826, 1852 và 1885, kháng chiến chống thực dân Anh diễn ra mạnh mẽ." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-15" value="Từ XVI đến XVIII, phong trào đấu tranh chống thực dân Tây Ban Nha nổ ra và gây nhiều thiệt hại cho kẻ thù." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="115" width="150" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="430" as="sourcePoint" />
+            <mxPoint x="70" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-24" value="Đông Nam Á hải đảo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-16">
+          <mxGeometry x="-0.1035" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="280" as="sourcePoint" />
+            <mxPoint x="180" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-22" value="In-đô-nê-xi-a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-18">
+          <mxGeometry x="-0.1337" y="1" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="280" as="sourcePoint" />
+            <mxPoint x="80" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-23" value="Phi-líp-pin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-19">
+          <mxGeometry x="-0.7433" y="1" relative="1" as="geometry">
+            <mxPoint x="36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-29.999999999999986" y="280" as="sourcePoint" />
+            <mxPoint x="-29.999999999999872" y="199.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="280" as="sourcePoint" />
+            <mxPoint x="180" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-26" value="Sau 6 thập kỉ, Anh đã chiếm được toàn bộ Mi-an-ma" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m7v5mhuUGvf5ou_YdBxC-28" target="m7v5mhuUGvf5ou_YdBxC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-28" value="Chống thực dân Pháp diễn ra quyết liệt gần 3 thập kỉ (1854-1885)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-29" value="Gây cho Pháp nhiều tổn thất nặng" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-31" value="sau khi Nô-rô-đôm kí hiệp ước với Pháp (1863), nhiều cuộc khởi nghĩa nổ ra." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-32" value="Phong trào chống Pháp diễn ra mạnh mẽ sau khi kí hiệp ước với Pháp (1893)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="550" as="sourcePoint" />
+            <mxPoint x="70" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-34" value="Đông Nam Á lục địa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-33">
+          <mxGeometry x="-0.1035" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="550" as="sourcePoint" />
+            <mxPoint x="330" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="m7v5mhuUGvf5ou_YdBxC-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="550" as="sourcePoint" />
+            <mxPoint x="130" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-43" value="Cam-pu-chia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-37">
+          <mxGeometry x="0.023" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="m7v5mhuUGvf5ou_YdBxC-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="550" as="sourcePoint" />
+            <mxPoint x="460" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-44" value="Lào" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-38">
+          <mxGeometry x="0.023" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="m7v5mhuUGvf5ou_YdBxC-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="550" as="sourcePoint" />
+            <mxPoint x="-10" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-42" value="Việt Nam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-39">
+          <mxGeometry x="-0.077" y="1" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="m7v5mhuUGvf5ou_YdBxC-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="550" as="sourcePoint" />
+            <mxPoint x="-110" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7v5mhuUGvf5ou_YdBxC-41" value="Mi-an-ma" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="m7v5mhuUGvf5ou_YdBxC-40">
+          <mxGeometry x="-0.017" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
